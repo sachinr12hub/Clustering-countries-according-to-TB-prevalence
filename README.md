@@ -1,0 +1,2 @@
+# Clustering-countries-according-to-TB-prevalence
+The dataset given is about TB prevalence, all forms (per 100000 population per year) in different countries. Clustering the countries based on how similar their situation has been year-by-year to understand the world situation regarding the tuberculosis disease. Here clustering method is used to cluster countries into 3 groups – (Countries with minimum, medium and maximum TB prevalence)
